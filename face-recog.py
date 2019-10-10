@@ -112,6 +112,5 @@ plt.xlabel("r")
 plt.ylabel("accuracy")
 plt.show()
 
-max_accuracy = accuracy
-max_accuracy.sort
-print(max_accuracy[0])
+# max_accuracy = accuracy
+# max_accuracy.sort
